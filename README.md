@@ -12,3 +12,6 @@ I find I make references and arguments several times over the course of my caree
   * What's the problem with moving resources around?
   * Why is it important to have a prioritized backlog and saying "no" when someone comes screaming.
   * Why should I not use the backlog as a list with _everything_
+
+* What are the symptoms of
+  * lack of shared understanding
