@@ -6,6 +6,7 @@ I find I make references and arguments several times over the course of my caree
 * ticket structure
 * arguments to use when
   * Why do I need structure in the backlog?
+    * What should that structure look like?
   * Why and what information do I need on my backlog items?
   * Why is information on tickets not enough? (Shared understanding)
   * What could be bad about adding more resources? What could be good?
